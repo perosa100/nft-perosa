@@ -1,0 +1,4 @@
+NEXT_PUBLIC_API_URL=http://localhost:4000
+NEXTAUTH_URL=http://localhost:3000
+NEXT_AUTH_SECRET="ASASADFGVASDFE#RQ!#EG"
+JWT_SIGNING_PRIVATE_KEY='{"kty":"oct","kid":"trqQ90NxJp0e2Rr05PtlAx3sqJeyHK27QfVzhkRHf2E","alg":"HS512","k":"_JuiijAvBwwJVi4zy8DU8OJWvLGViLEBenTNAM5m7hc"}'
